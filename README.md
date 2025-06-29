@@ -1,7 +1,7 @@
 # Simple-Book-Store-API-Node-Express
 # Bookstore API
 
-A simple Node.js + Express API demonstrating CRUD operations with fake data, for practice and public portfolio demonstration.
+Simple Node.js + Express API demonstrating CRUD operations with fake data, for practice and public portfolio demonstration.
 
 ## Features
 
